@@ -12,27 +12,29 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 ##
 ### Minhas principais skills
 <div>
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" />
-  <a href="https://www.typescriptlang.org/pt/" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Typescript" />
+  <a href="https://www.typescriptlang.org/pt/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" alt="Javascript"/>
   </a>
-  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" />
+  <a href="https://www.typescriptlang.org/pt/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Typescript" alt="Typescript"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" />
+  <a href="https://pt-br.reactjs.org/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React"/>
   </a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" />
+  <a href="https://nextjs.org/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS"/>
   </a>
-  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" />
+  <a href="https://docs.nestjs.com/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS"/>
   </a>
-  <a href="https://storybook.js.org/docs/react/why-storybook" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" />
+  <a href="https://jestjs.io/pt-BR/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" alt="Jest"/>
   </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noopener noreferrer">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" title="styled-components" />
+  <a href="https://storybook.js.org/docs/react/why-storybook">
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook"/>
+  </a>
+  <a href="https://styled-components.com/">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" title="styled-components" alt="styled-components"/>
   </a>
 </div>
 
