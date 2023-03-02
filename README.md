@@ -12,7 +12,7 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 ##
 ### Minhas principais skills
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" >
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" />
   </a>
   <a href="https://www.typescriptlang.org/pt/" target="_blank" rel="noopener noreferrer">
