@@ -7,26 +7,26 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 
 <br/>
 
-
  ![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Henrique0498&show_icons=true&theme=github_dark)
 
 ##
-
 ### Minhas principais skills
-<br/>
 <div>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="Typescript" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  <img height="30" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/nextjs.svg" title="NextJS" /> 
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="NestJS" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" />
+  <a href="#">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" />
+  </a>
+  <a href="#">
+    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Typescript" />
+  </a>
+  <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" />
+  <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" /> 
+  <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" />
+  <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" />
+  <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" title="styled-components" />
 </div>
 
 ##
-
 ### Meus contatos
 <div> 
   <a href="mailto:h.lopes.silva2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Email" />
