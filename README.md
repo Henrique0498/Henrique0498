@@ -12,28 +12,28 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 ##
 ### Minhas principais skills
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" />
   </a>
-  <a href="https://www.typescriptlang.org/pt/">
+  <a href="https://www.typescriptlang.org/pt/" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Typescript" />
   </a>
-  <a href="https://pt-br.reactjs.org/">
+  <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" />
   </a>
-  <a href="https://nextjs.org/">
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" />
   </a>
-  <a href="https://docs.nestjs.com/">
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" />
   </a>
-  <a href="https://jestjs.io/pt-BR/">
+  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" />
   </a>
-  <a href="https://storybook.js.org/docs/react/why-storybook">
+  <a href="https://storybook.js.org/docs/react/why-storybook" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" />
   </a>
-  <a href="https://styled-components.com/">
+  <a href="https://styled-components.com/" target="_blank" rel="noopener noreferrer">
     <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" title="styled-components" />
   </a>
 </div>
