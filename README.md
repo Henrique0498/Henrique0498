@@ -49,3 +49,6 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
   <a href="https://www.linkedin.com/in/henrique-ls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"/> 
   
 </div>
+
+####
+![Snake animation](https://github.com/Henrique0498/Henrique0498/blob/output/github-contribution-grid-snake.svg)
