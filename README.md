@@ -53,4 +53,4 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 </div>
 
 ####
-![Snake animation](https://github.com/Henrique0498/Henrique0498/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/Henrique0498/Henrique0498/blob/output/github-contribution-grid-snake.svg)
