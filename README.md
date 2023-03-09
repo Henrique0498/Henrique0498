@@ -1,3 +1,5 @@
+<div style="background-color: #0D1117;">
+
 ## Hey!
 
 Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, hoje trabalho na Engloba Sistemas, em um time multidisciplinar, utilizando SCRUM como metodologia ágil de desenvolvimento,e na parte de desenvolvimento utilizamos as tenologias React e Typescript como stacks principais.
@@ -54,3 +56,4 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 
 ####
 ![Snake animation](https://github.com/Henrique0498/Henrique0498/blob/output/github-contribution-grid-snake.svg)
+</div>
