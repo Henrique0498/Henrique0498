@@ -7,7 +7,11 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 
 <br/>
 
- ![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=Henrique0498&show_icons=true&theme=github_dark)
+<div>
+  <a href="https://github.com/Henrique0498">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique0498&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0498&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
 ##
 ### Minhas principais skills
