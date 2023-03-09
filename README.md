@@ -7,12 +7,14 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 
 <br/>
 
-<div>
-  <a href="https://github.com/Henrique0498">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique0498&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0498&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Henrique0498&show_icons=true&count_private=true&hide_border=true&title_color=4C8EDA&icon_color=1E6FEA&text_color=c9d1d9&bg_color=0000" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0498&layout=compact&hide_border=true&title_color=4C8EDA&text_color=c9d1d9&bg_color=0000" />
 </div>
 
+
+  
+  
 ##
 ### Minhas principais skills
 <div>
@@ -45,7 +47,7 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
 ##
 ### Meus contatos
 <div> 
-  <a href="mailto:h.lopes.silva2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Email" />
+  <a href="mailto:h.lopes.silva2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&bg_color=red" target="_blank" title="Email" />
   <a href="https://www.linkedin.com/in/henrique-ls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"/> 
   
 </div>
