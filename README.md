@@ -1,6 +1,7 @@
-## Hey!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8EDA&size=35&center=true&vCenter=true&width=1000&lines=Hey!+My+name+is+Henrique;Be+Welcome!)](https://git.io/typing-svg)
 
-Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, hoje trabalho na Engloba Sistemas, em um time multidisciplinar, utilizando SCRUM como metodologia ágil de desenvolvimento,e na parte de desenvolvimento utilizamos as tenologias React e Typescript como stacks principais.
+
+Sou um desenvolvedor Front-End há um pouco mais de 3 anos, sou graduado em Gestão de TI e atualmente fazendo graduação de ADS na FIAP, hoje trabalho na Engloba Sistemas, em um time multidisciplinar, utilizando SCRUM como metodologia ágil de desenvolvimento,e na parte de desenvolvimento utilizamos as tecnologias React e Typescript como stacks principais.
 
 - 🔭 Trabalho no Front-end, utilizando React com typescriot na Engloba sistemas
 - 🌱 Estudando tecnologias que aprimore minha base no front-end e minhas soft-skills
@@ -52,5 +53,4 @@ Meu nome é Henrique, sou um desenvolvedor Front-End a um pouco mais de 3 anos, 
   
 </div>
 
-####
 ![Snake animation](https://github.com/Henrique0498/Henrique0498/blob/output/github-contribution-grid-snake.svg)
