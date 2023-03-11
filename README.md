@@ -19,29 +19,29 @@ Sou um desenvolvedor Front-End há um pouco mais de 3 anos, sou graduado em Gest
 ##
 ### Minhas principais skills
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="Javascript" alt="Javascript"/>
-  </a>
   <a href="https://www.typescriptlang.org/pt/">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Typescript" alt="Typescript"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/TypeScript.svg" title="Typescript" alt="Typescript"/>
   </a>
   <a href="https://pt-br.reactjs.org/">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/React.svg" title="React" alt="React"/>
   </a>
   <a href="https://nextjs.org/">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Next.svg" title="NextJS" alt="NextJS"/>
   </a>
   <a href="https://docs.nestjs.com/">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Nest.svg" title="NestJS" alt="NestJS"/>
+  </a>
+  <a href="https://graphql.org/">
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/GraphQL.svg" title="Javascript" alt="Javascript"/>
   </a>
   <a href="https://jestjs.io/pt-BR/">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" title="Jest" alt="Jest"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Jest.svg" title="Jest" alt="Jest"/>
   </a>
   <a href="https://storybook.js.org/docs/react/why-storybook">
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Storybook.svg" title="Storybook" alt="Storybook"/>
   </a>
   <a href="https://styled-components.com/">
-    <img height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" title="styled-components" alt="styled-components"/>
+    <img height="40" width="40" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Styled-Components.svg" title="styled-components" alt="styled-components"/>
   </a>
 </div>
 
