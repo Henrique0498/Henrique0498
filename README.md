@@ -13,9 +13,6 @@ Sou um desenvolvedor Front-End há um pouco mais de 3 anos, sou graduado em Gest
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique0498&layout=compact&hide_border=true&title_color=4C8EDA&text_color=c9d1d9&bg_color=0000" />
 </div>
 
-
-  
-  
 ##
 ### Minhas principais skills
 <div>
@@ -48,10 +45,15 @@ Sou um desenvolvedor Front-End há um pouco mais de 3 anos, sou graduado em Gest
 ##
 ### Meus contatos
 <div> 
-  <a href="mailto:h.lopes.silva2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&bg_color=red" target="_blank" title="Email" />
-  <a href="https://www.linkedin.com/in/henrique-ls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"/> 
-  <a href="https://henriquelopes.dev.br/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blue" target="_blank" title="LinkedIn"/> 
-  
+  <a href="mailto:h.lopes.silva2015@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&bg_color=red" target="_blank" title="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-ls/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn"/>
+  </a>
+  <a href="https://henriquelopes.dev.br/" target="_blank">
+    <img height="29px" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#FF7139" target="_blank" title="Portfolio"/>
+  </a>
 </div>
 
 ![Snake animation](https://github.com/Henrique0498/Henrique0498/blob/output/github-contribution-grid-snake.svg)
