@@ -29,7 +29,7 @@ Sou um desenvolvedor Front-End há um pouco mais de 3 anos, sou graduado em Gest
     <img height="40" width="52" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Nest.svg" title="NestJS" alt="NestJS"/>
   </a>
   <a href="https://graphql.org/">
-    <img height="40" width="52" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/GraphQL.svg" title="Javascript" alt="Javascript"/>
+    <img height="40" width="52" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/GraphQL.svg" title="GraphQl" alt="GraphQl"/>
   </a>
   <a href="https://jestjs.io/pt-BR/">
     <img height="40" width="52" src="https://github.com/Henrique0498/Henrique0498/blob/main/img/Jest.svg" title="Jest" alt="Jest"/>
